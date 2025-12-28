@@ -1,4 +1,4 @@
-#Advent of Code 2025
+# Advent of Code 2025
 My solutions to the Advent of Code 2025 programming challenges.
 About This Repository
 Advent of Code is an annual set of Christmas-themed programming puzzles that run from December 1st through 25th. Each day presents a two-part problem that tests algorithmic thinking, data structures, and problem-solving skills.
